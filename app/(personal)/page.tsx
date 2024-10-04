@@ -24,6 +24,8 @@ export default async function IndexRoute() {
           create one now
         </Link>
         !
+
+        or call Hunter
       </div>
     )
   }
